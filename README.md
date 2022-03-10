@@ -7,11 +7,11 @@
 <p align="center"> <samp>
   
   
-  <a href="https://www.linkedin.com/in/mois%C3%A9s-souza-3a8572193">
-    <img margin-left="100px" alt="Moises' Linkedin" width="35px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+  <a href="https://www.linkedin.com/in/mois%C3%A9s-souza-3a8572193" target="_blank">
+    <img margin-left="100px" alt="Moises' Linkedin" width="35px"  src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
   </a>
-  <a href="https://www.instagram.com/moises_fxs/">
-    <img alt="Moises' Instagram" width="35px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />
+  <a href="https://www.instagram.com/moises_fxs/" target="_blank">
+    <img alt="Moises' Instagram" width="35px"  src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />
   </a>
   
 </p>
