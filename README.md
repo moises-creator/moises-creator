@@ -34,7 +34,7 @@
   </td>
 
   <td width="20%">
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
   </td>
   
   <td width="20%">
