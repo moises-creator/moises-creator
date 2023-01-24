@@ -58,7 +58,7 @@
   </td>
   
   <td width="20%">
-    <img src="https://img.icons8.com/color/48/000000/sql.png"/>
+    <img style="width: 50px"src="https://img.icons8.com/color/512/azure-1.png"/>
   </td>
   
   <td width="20%">
