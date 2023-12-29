@@ -5,7 +5,7 @@ Hi, I'm Moisés Ximenes!
 <br/>
 
 <p align="justify">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Data+Scientist;New+day,+ new+learning!;Full+Stack+.Net+jr;" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Studying+Data+Scientist;New+day,+ new+learning!;Data+Analyst+jr;" alt="Typing SVG" /></a>
 </p>
 
 <img align="left" src="https://media.tenor.com/nVN3rFQ9JacAAAAC/anime-aesthetic.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="370" height='270' />
