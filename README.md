@@ -14,12 +14,12 @@ Hi, I'm Moisés Ximenes!
 ```
 moises-creator@github
 -------------------------
-💻 Data Scientist/Full Stack .Net Developer
+💻 Data Analyst and Python Developer 
 📚 Studying Data Science at Federal University of Mato Grosso do Sul
 📝 Machine learning enthusiast
 🔭 Currently studying advanced data science course on udemy
 🌱 Studying Computer Vision in my person projects
-🌟 My language: Python and C#
+🌟 My language: Python and JS
 ```
 <hr>
 
